@@ -1,0 +1,10 @@
+C:\Users\c_ara\source\repos\Jogo da Adivinhação\Jogo da Adivinhação\bin\Debug\Jogo da Adivinhação.exe.config
+C:\Users\c_ara\source\repos\Jogo da Adivinhação\Jogo da Adivinhação\bin\Debug\Jogo da Adivinhação.exe
+C:\Users\c_ara\source\repos\Jogo da Adivinhação\Jogo da Adivinhação\bin\Debug\Jogo da Adivinhação.pdb
+C:\Users\c_ara\source\repos\Jogo da Adivinhação\Jogo da Adivinhação\obj\Debug\Jogo da Adivinhação.csproj.AssemblyReference.cache
+C:\Users\c_ara\source\repos\Jogo da Adivinhação\Jogo da Adivinhação\obj\Debug\Jogo_da_Adivinhação.Form1.resources
+C:\Users\c_ara\source\repos\Jogo da Adivinhação\Jogo da Adivinhação\obj\Debug\Jogo_da_Adivinhação.Properties.Resources.resources
+C:\Users\c_ara\source\repos\Jogo da Adivinhação\Jogo da Adivinhação\obj\Debug\Jogo da Adivinhação.csproj.GenerateResource.cache
+C:\Users\c_ara\source\repos\Jogo da Adivinhação\Jogo da Adivinhação\obj\Debug\Jogo da Adivinhação.csproj.CoreCompileInputs.cache
+C:\Users\c_ara\source\repos\Jogo da Adivinhação\Jogo da Adivinhação\obj\Debug\Jogo da Adivinhação.exe
+C:\Users\c_ara\source\repos\Jogo da Adivinhação\Jogo da Adivinhação\obj\Debug\Jogo da Adivinhação.pdb

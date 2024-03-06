@@ -1,0 +1,10 @@
+C:\Users\c_ara\source\repos\Calculadora imc\Calculadora imc\bin\Debug\Calculadora imc.exe.config
+C:\Users\c_ara\source\repos\Calculadora imc\Calculadora imc\bin\Debug\Calculadora imc.exe
+C:\Users\c_ara\source\repos\Calculadora imc\Calculadora imc\bin\Debug\Calculadora imc.pdb
+C:\Users\c_ara\source\repos\Calculadora imc\Calculadora imc\obj\Debug\Calculadora imc.csproj.AssemblyReference.cache
+C:\Users\c_ara\source\repos\Calculadora imc\Calculadora imc\obj\Debug\Calculadora_imc.Form1.resources
+C:\Users\c_ara\source\repos\Calculadora imc\Calculadora imc\obj\Debug\Calculadora_imc.Properties.Resources.resources
+C:\Users\c_ara\source\repos\Calculadora imc\Calculadora imc\obj\Debug\Calculadora imc.csproj.GenerateResource.cache
+C:\Users\c_ara\source\repos\Calculadora imc\Calculadora imc\obj\Debug\Calculadora imc.csproj.CoreCompileInputs.cache
+C:\Users\c_ara\source\repos\Calculadora imc\Calculadora imc\obj\Debug\Calculadora imc.exe
+C:\Users\c_ara\source\repos\Calculadora imc\Calculadora imc\obj\Debug\Calculadora imc.pdb
